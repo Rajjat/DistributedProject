@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2016 ashu
+ * 
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
@@ -21,10 +21,6 @@ import java.util.Timer;
 import java.util.TimerTask;
 import static javafx.util.Duration.seconds;
 
-/**
- *
- * @author ashu
- */
 public class MasterSelWaitTimer {
 
     Timer timer;
