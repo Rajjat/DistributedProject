@@ -20,10 +20,6 @@ package javarpcimpl;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author ashu
- */
 public class MasterNodeSelThread extends Thread {
 
     @Override
