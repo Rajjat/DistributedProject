@@ -5,10 +5,6 @@
  */
 package javarpcimpl;
 
-/**
- *
- * @author ashu
- */
 public class JavaRPCImpl {
 
     /**
